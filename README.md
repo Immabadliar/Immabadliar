@@ -16,10 +16,6 @@ I'm a **game developer** and **programmer** with a passion for creating immersiv
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)  
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)  
 
----
-
-## ✨ My Contributions  
-![Luca's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Immabadliar&theme=radical)  
 
 ---
 
