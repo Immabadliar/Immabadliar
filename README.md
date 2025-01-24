@@ -10,7 +10,7 @@ I'm a **game developer** and **programmer** with a passion for creating immersiv
 ---
 
 ## 🔧 Languages I Use  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)  
+!(https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  !(https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)     !(https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)      !(https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)     !(https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)  
    
 
 
