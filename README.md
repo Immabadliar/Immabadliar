@@ -1,14 +1,17 @@
-#  Hi there, I'm Luca
+# Hi there, I'm Luca
 
-I'm a **game developer** and **programmer** with a passion for building immersive and interactive digital experiences. When I'm not coding, I'm probably researching aviation tech or nerding out over aircraft schematics—it's my second love! 🚀✈️  
+I'm a **game developer** and **programmer** with a passion for building immersive and interactive digital experiences. When I'm not coding, I'm probably researching aviation tech or nerding out over aircraft schematics—it's my second love!
 
+---
 
-##  GitHub Stats  
+## GitHub Stats
+
 ![Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Immabadliar&show_icons=true&theme=radical)
 
 ---
 
-##  Languages I Use  
+## Languages & Technologies
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -24,13 +27,22 @@ I'm a **game developer** and **programmer** with a passion for building immersiv
 
 ---
 
-##  About Me  
--  I specialize in game development, engine scripting, and interactive UI systems.  
--  I’m proficient in both frontend and backend development using a wide variety of tools.  
--  Lifelong learner passionate about performance, clean code, and creative problem-solving.  
--  Aviation isn't just a hobby, it's part of who I am.
+## About Me
+
+- I specialize in game development, engine scripting, and interactive UI systems
+- Proficient in both frontend and backend development using a wide variety of tools
+- Lifelong learner passionate about performance, clean code, and creative problem-solving
+- Aviation isn't just a hobby—it's part of who I am
 
 ---
 
- **Get in touch:**  
-[Discord](https://discord.com/users/1021175652243751013) | [GitHub](https://github.com/Immabadliar) | [Twitter](https://twitter.com/ItsKen0bi) | [YouTube](https://youtube.com/@ItsKen0bi)
+## Get in Touch
+
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1021175652243751013)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Immabadliar)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ItsKen0bi)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ItsKen0bi)
+
+---
+
+From [Immabadliar](https://github.com/Immabadliar)
